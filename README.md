@@ -15,5 +15,5 @@ sudo ./target/release/krds scan --collect
 writes a report under `output/`. first integrity run saves a baseline;
 later runs compare against it.
 
-needs root for useful results. not magic — if the kernel is owned hard
+needs root for useful results. not magic, if the kernel is owned hard
 enough, this can lie to you too.
