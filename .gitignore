@@ -1,5 +1,8 @@
 /target/
+debug/
 output/*
 !output/.gitkeep
+**/*.rs.bk
+*.pdb
 *.swp
 .idea/
